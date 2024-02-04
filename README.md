@@ -29,7 +29,7 @@ This github repository is intended to accommodate the java source code implement
 
 3. Soit le modèle ci-dessous.
    <p align="center">
-  <img src="Screenshot from 2024-02-04 16-33-14.png" alt="Description de l'image" />
+  <img src="image/Screenshot from 2024-02-04 16-33-14.png" alt="Description de l'image" />
 </p>
 
        Donner un squelette de code de cette classe en Java.
@@ -46,7 +46,7 @@ This github repository is intended to accommodate the java source code implement
 pour l’application. La figure ci-dessous donne un extrait du modèle.
 
    <p align="center">
-  <img src="Screenshot from 2024-02-04 16-37-37.png" alt="Description de l'image" />
+  <img src="image/Screenshot from 2024-02-04 16-37-37.png" alt="Description de l'image" />
 </p>
 
 On a la classe **_Order_** qui gère les commandes. La méthode **getShippingCos()** calcule les frais d’expédition de la commande. Quand elle se fait par route,l’expédition est gratuite si la commande dépasse 100 Dollar, sinon elle coûte 15$ /Kg, avec un minimum de 10$. Par contre quand elle se fait par voie aérienne, l’expédition coûte 3$ / kg avec un minimum de 20$.
@@ -68,7 +68,7 @@ On a la classe **_Order_** qui gère les commandes. La méthode **getShippingCos
 en lecture seule, mais aussi des documents modifiables.
 
  <p align="center">
-  <img src="Screenshot from 2024-02-04 16-45-06.png" alt="Description de l'image" />
+  <img src="image/Screenshot from 2024-02-04 16-45-06.png" alt="Description de l'image" />
 </p>
 
 
@@ -83,7 +83,7 @@ en lecture seule, mais aussi des documents modifiables.
 Dropbox ne permet ni de créer des serveurs, ni de gérer les CDN (Content Delivery Networks)
 
  <p align="center">
-  <img src="Screenshot from 2024-02-04 16-50-08.png" alt="Description de l'image" />
+  <img src="image/Screenshot from 2024-02-04 16-50-08.png" alt="Description de l'image" />
 </p>
 
 
@@ -100,7 +100,7 @@ la production des rapports sur le budget d’une entreprise, et une couche en de
 bases de données.
 
 <p align="center">
-  <img src="Screenshot from 2024-02-04 16-53-41.png" alt="Description de l'image" />
+  <img src="image/Screenshot from 2024-02-04 16-53-41.png" alt="Description de l'image" />
 </p>
 
 
