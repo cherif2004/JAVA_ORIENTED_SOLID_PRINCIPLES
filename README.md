@@ -7,7 +7,7 @@ This github repository is intended to accommodate the java source code implement
 # <p align="center">Département d’Informatique</p>
 
 <p align="center">
-  <img src="image.png" alt="Description de l'image" />
+  <img src="image/image.png" alt="Description de l'image" />
 </p>
   <p align="center">Licence 3</p>
 
